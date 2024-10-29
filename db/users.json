@@ -1,0 +1,42 @@
+[
+    {
+        "username": "Komron",
+        "password": "$2y$10$mD5O9zQwLLPB.5JJuJsKRepP.E87P5eQcITeIgzVnJ5\/JLXgyJQxC",
+        "email": "komron12346@gmail.com"
+    },
+    {
+        "username": "Feruz",
+        "password": "$2y$10$VjXTelQJkmuDPKxtGPaO8u470IzxJ0Fb.1Wve261tvWtnXRyEuCKO",
+        "email": "feruz@gmail.com"
+    },
+    {
+        "username": "admin",
+        "password": "$2y$10$nGWJdnqtVVjiwdswmE.14.Gz5Dkr1555knXwctZ3GSk9O3X9VicNe",
+        "email": "admin@gmail.com"
+    },
+    {
+        "username": "ter",
+        "password": "$2y$10$GygKXLFAI4zszS1BqYgGZuX023D0d3oJQ4rQOOAVxkaaQX9eAeEY6",
+        "email": "ter@gmail.com"
+    },
+    {
+        "username": "Abduazim",
+        "password": "$2y$10$TtWANsS4HeY5G1EolNYpQuK5p3gdQ8ldB04MqObl6wIjrbWw84rIm",
+        "email": "a@gmail.com"
+    },
+    {
+        "username": "K",
+        "password": "$2y$10$fccsMHTOgaF99\/4fzECbRuqaaujBB28q5DFX3VAdgCbqSW2kYj42u",
+        "email": "k@gmailc.com"
+    },
+    {
+        "username": "Nicolas",
+        "password": "$2y$10$8jxbPBvRWpCKHb0aJo\/SMenF3bMMvFNf6S3rCLNmOuVklijuZ38r2",
+        "email": "nico@gmail.com"
+    },
+    {
+        "username": "komron1234",
+        "password": "$2y$10$PyveeD4arqaBfGqmDsyxPODvlo4uoo4bIlU8P12DK6Qs\/bqYIUGM.",
+        "email": "komron@gmail.com"
+    }
+]

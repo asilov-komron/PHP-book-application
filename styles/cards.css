@@ -1,0 +1,159 @@
+
+/* book card 2 styles start here */
+
+body{
+    font-family: 'Kanit';
+
+}
+
+#card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+}
+
+
+.book-card-2 {
+    border-radius: 12px;
+    box-shadow: 1px 15px 23px -11px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 1px 15px 23px -11px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 1px 15px 23px -11px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    text-align: center;
+    width: 400px;
+    /* height: 500px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: whitesmoke;
+}
+
+
+.book-image-text {
+    display: flex;
+    flex-direction: row; /* Change this to row to align items in columns */
+    align-items: center; /* Optionally, center-align items vertically */
+    justify-content: center; /* Optionally, center-align items horizontally */
+}
+
+.book-card-2 img {
+    display: inline-block;
+    vertical-align: middle;
+    height: 200px;
+    width: 150px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+
+.text {
+    display: inline-block;
+    vertical-align: middle;
+    width: 180px;
+    color: black;
+    /* or top or bottom */
+}
+
+
+.book-title{
+    width: 400px;
+    background-color: rgb(22, 20, 17);
+    border-radius: 12px 12px 0 0;
+    color: white;
+   
+
+}
+
+.book-link{
+   color: whitesmoke;
+   text-decoration: none;
+
+}
+
+.book-title:hover{
+    background-color: rgb(77, 72, 76);
+    
+
+}
+
+.book-title:hover .book-link{
+    color: whitesmoke;
+
+}
+
+
+
+.book-card-2 .edit {
+    background-color: var(--clr-main);
+    border-radius: 0 0 8px 8px;
+    color: var(--clr-white);
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px 0px;
+    transition: 0.2s;
+    margin-top: auto;
+    width: 100%;
+    margin-left: 0;
+}
+
+.book-card-2 .edit:hover {
+    background-color: var(--clr-highlight);
+    /* margin-top: -5px; */
+    padding-bottom: 15px;
+}
+
+a{
+    color: white;
+}
+
+
+
+@media screen and (max-width: 500px) {
+    .book-card-2 {
+        border-radius: 12px;
+        box-shadow: 1px 15px 23px -11px rgba(0, 0, 0, 0.5);
+        -webkit-box-shadow: 1px 15px 23px -11px rgba(0, 0, 0, 0.5);
+        -moz-box-shadow: 1px 15px 23px -11px rgba(0, 0, 0, 0.5);
+        margin-top: 20px;
+        text-align: center;
+        width: 300px;
+        height: 310px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+
+    .book-card-2 img {
+        display: inline-block;
+        vertical-align: middle;
+        height: 100px;
+        width: 80px;
+        padding: 20px;
+        padding-left: 5px;
+        border-radius: 25px;
+    }
+
+    .book-title{
+        width: 300px;
+        background-color: rgb(22, 20, 17);
+        border-radius: 12px 12px 0 0;
+        color: white;
+       
+    
+    }
+
+
+    .text {
+        display: inline-block;
+        vertical-align: middle;
+        width: 150px;
+        color: black;
+        /* or top or bottom */
+    }
+    
+    
+}

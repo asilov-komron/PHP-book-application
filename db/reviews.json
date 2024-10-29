@@ -1,0 +1,48 @@
+[
+    {
+        "username": "Komron",
+        "email": "komron12346@gmail.com",
+        "books_read": [
+            "City of the Wizards",
+            "The power of religion",
+            "Ancient mysteries",
+            "The story of stranger"
+        ],
+        "reviews": [
+            "1:A really great book that insipires a lot.:4",
+            "2:The best book ever!:5"
+        ],
+        "ratings": [
+            "1:5",
+            "2:7"
+        ]
+    },
+    {
+        "username": "Nicolas",
+        "email": "nico@gmail.com",
+        "books_read": [
+            "City of the Wizards"
+        ],
+        "reviews": [
+            "1:A love it, the best book ever!:5"
+        ],
+        "rating": [],
+        "ratings": [
+            "1:5"
+        ]
+    },
+    {
+        "username": "komron1234",
+        "email": "komron@gmail.com",
+        "books_read": [
+            "The story of stranger"
+        ],
+        "reviews": [
+            "1:Very good book:5"
+        ],
+        "rating": [],
+        "ratings": [
+            "1:5"
+        ]
+    }
+]

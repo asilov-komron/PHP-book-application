@@ -1,0 +1,129 @@
+:root {
+    --clr-main: #4c4d57;
+    --clr-secondary: #717eff;
+    --clr-highlight: #3be5af;
+    --clr-light: #cce2e6;
+    --clr-dark: #574c52;
+    --clr-white: #e2edf0;
+}
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: rgb(190, 190, 190);
+    font-family: 'Kanit';
+
+}
+
+.wrapper {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+}
+
+
+header {
+    background-color: var(--clr-main);
+    color: var(--clr-white);
+    padding: 10px;
+    background-image: url('../assets/header_image.jpeg');
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+header h1 a {
+    color: var(--clr-white);
+    text-decoration: none;
+}
+
+header h1 a:hover {
+    text-decoration: underline;
+}
+
+
+h1 {
+    color: white;
+}
+
+h2, h3 {
+    color: white;
+}
+
+
+
+a{
+    color: white;
+}
+
+
+button{
+    width: 90px;
+    height:33px;
+    margin-top: 70px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+
+button:hover{
+    background-color: #4c4d57;
+    color: white;
+}
+
+
+
+
+.icon{
+    width: 50px;
+    height: 40px;
+    margin-top: 60px;
+}
+
+
+
+
+.user-section{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+
+
+.logo {
+    margin-top: 10px;
+    margin-right: 257px;
+    max-width: 12rem;
+    
+}
+
+
+
+.user-container{
+    /* margin-top: 100px; */
+    /* margin-bottom: 200px; */
+    display: flex;
+    flex-direction: row;
+}
+
+.user-container h1{
+    color: black;
+}
+
+.user-info{
+    margin-top: 60px;
+}
+
+.profile{
+    height: 25rem;
+}
+
+
+
+footer {
+    background-color: var(--clr-main);
+    color: var(--clr-white);
+    padding: 10px;
+    text-align: center;
+}
+

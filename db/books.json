@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "City of the Wizards",
+        "author": "Sonny Whitelaw",
+        "description": "Notes about Argos, the planet originally under the control of the Goa'uld Pelops. A definitive Greek ancestry decorates the structures, as well as the clothing of the Argosians, the planets occupants who prefered to call themselves the Chosen. For some time Pelops operated on the planet, experimenting on the human population, much like Nirrti has done, attempting to expand their lifespan.",
+        "short_desc": "Notes about Argos, the planet originally under the control of the Goa'uld Pelops.",
+        "year": 2005,
+        "image": "city_of_wizards.jpeg",
+        "planet": "P3X-8596"
+    },
+    {
+        "id": 2,
+        "title": "The story of stranger",
+        "author": "Evelyn Harper",
+        "description": "'The Story of the Stranger' describes the life and teachings of one of history's most revered spiritual leaders. Through engaging narratives and profound insights, this book offers a glimpse into the wisdom and guidance that shaped countless lives and civilizations.",
+        "short_desc": "'The Story of Stranger' describes the life and teachings of a revered prophet, offering profound insights.",
+        "year": 1998,
+        "image": "story_of_stranger.jpeg",
+        "planet": "P3X-4236"
+    },
+    {
+        "id": 3,
+        "title": "Ancient mysteries",
+        "author": "Marcus Reynolds",
+        "description": "'Ancient Mysteries' unravels enigmatic puzzles from bygone civilizations, offering a captivating journey through the shadows of history. Delving into cryptic artifacts, lost civilizations, and unexplained phenomena, this title invites readers to ponder the enduring mysteries that continue to captivate and mystify humanity.",
+        "short_desc": "'Ancient Mysteries' explores enigmatic historical events and artifacts, unraveling the secrets of the past.",
+        "year": 2006,
+        "image": "ancient_mysteries.jpeg",
+        "planet": "P3X-5342"
+    },
+    {
+        "id": 4,
+        "title": "The power of religion",
+        "author": "Alejandro Moreno",
+        "description": "'The Power of Religion' delves into the profound impact of faith on individuals and societies throughout history. Through compelling narratives and insightful analysis, this title explores the transformative influence of religious beliefs and practices, shedding light on their role in shaping cultures, values, and the human experience.",
+        "short_desc": "'The Power of Religion' examines the profound influence of faith on individuals and societies throughout history.",
+        "year": 2009,
+        "image": "religion_power.jpeg",
+        "planet": "P3X-1252"
+    }
+]
